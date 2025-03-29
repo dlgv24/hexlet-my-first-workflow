@@ -1,1 +1,2 @@
 # hexlet-my-first-workflow
+[![show-hello](https://github.com/dlgv24/hexlet-my-first-workflow/actions/workflows/show-hello.yml/badge.svg?branch=main)](https://github.com/dlgv24/hexlet-my-first-workflow/actions/workflows/show-hello.yml)
